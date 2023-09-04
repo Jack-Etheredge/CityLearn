@@ -1,6 +1,6 @@
 import math
 from typing import Any, List, Mapping, Tuple, Union
-from gym import spaces
+from gymnasium import spaces
 import numpy as np
 import torch
 from citylearn.base import Environment, EpisodeTracker
